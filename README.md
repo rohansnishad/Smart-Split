@@ -136,9 +136,7 @@ Submit a Pull Request 🚀
 # 🧑‍💻 Author
 
 Rohan Nishad
-📍 B.Tech CSE | Android & Java Developer
-💼 Treasurer, JIT ACM Student Chapter
-🌐 LinkedIn
- • GitHub
+📍 Android & Java Developer
+
 
 
